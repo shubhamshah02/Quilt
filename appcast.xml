@@ -8,7 +8,7 @@
             <sparkle:version>1.0</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14</sparkle:minimumSystemVersion>
-            <enclosure url="https://shubhamshah02.github.io/Quilt/Quilt%20Installer.dmg" length="2371735" type="application/octet-stream" sparkle:edSignature="iJEn0FckVFBTLsdhF7meTi/7Er+MLIPx2Q0xzmaiSBUhKtZhtlalcviTKgNoS7d5tCU5jMCv4mIRf3nlNJQ9Cg=="/>
+            <enclosure url="https://github.com/shubhamshah02/Quilt/releases/download/prod/Quilt.Installer.dmg" length="2371735" type="application/octet-stream" sparkle:edSignature="iJEn0FckVFBTLsdhF7meTi/7Er+MLIPx2Q0xzmaiSBUhKtZhtlalcviTKgNoS7d5tCU5jMCv4mIRf3nlNJQ9Cg=="/>
         </item>
         <item>
             <title>0.9</title>
