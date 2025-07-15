@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Quilt</title>
+        <item>
+            <title>0.9</title>
+            <pubDate>Tue, 15 Jul 2025 11:43:12 -0400</pubDate>
+            <sparkle:version>0.9</sparkle:version>
+            <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/shubhamshah02/Quilt/releases/download/prod/Quilt.Installer.dmg" length="2358758" type="application/octet-stream" sparkle:edSignature="0avtKXaIpCrv3sfpbNEErksBoM6hc55jdivmv+pK51oSDdIvuY1EjxefFQ5aktmNW4GQryhm4H3xoVI5vdMIDA=="/>
+        </item>
+    </channel>
+</rss>
