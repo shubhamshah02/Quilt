@@ -3,20 +3,25 @@
     <channel>
         <title>Quilt</title>
         <item>
-            <title>1.0</title>
-            <pubDate>Tue, 15 Jul 2025 12:37:44 -0400</pubDate>
+            <title>1.1</title>
+            <pubDate>Sun, 20 Jul 2025 03:05:01 -0400</pubDate>
             <sparkle:version>1.0</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/shubhamshah02/Quilt/releases/download/prod/Quilt.Installer.dmg" length="2371735" type="application/octet-stream" sparkle:edSignature="iJEn0FckVFBTLsdhF7meTi/7Er+MLIPx2Q0xzmaiSBUhKtZhtlalcviTKgNoS7d5tCU5jMCv4mIRf3nlNJQ9Cg=="/>
-        </item>
-        <item>
-            <title>0.9</title>
-            <pubDate>Tue, 15 Jul 2025 11:43:12 -0400</pubDate>
-            <sparkle:version>0.9</sparkle:version>
-            <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/shubhamshah02/Quilt/releases/download/prod/Quilt.Installer.dmg" length="2358758" type="application/octet-stream" sparkle:edSignature="0avtKXaIpCrv3sfpbNEErksBoM6hc55jdivmv+pK51oSDdIvuY1EjxefFQ5aktmNW4GQryhm4H3xoVI5vdMIDA=="/>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li>Added support for compressing PDF files during export (Pro only).</li>
+                    <li>Added ability to choose a window to focus on for custom area.</li>
+                    <li>Changed "Set..." to "Custom..." for the Press Key option.</li>
+                    <li>Made improvements to permissions handling.</li>
+                    <li>Other bug fixes and improvements.</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/shubhamshah02/Quilt/releases/download/prod/Quilt.Installer.dmg"
+                length="2409276"
+                type="application/octet-stream"
+                sparkle:edSignature="k5obyp4HVzqYq3V9L///D49xoOapFw9oOgLemwKT0Zcwi5foyM42bI5N2Ymsd52BPrcAGXARuoZQzn2eD5iDAg==" />
         </item>
     </channel>
 </rss>
