@@ -1,7 +1,7 @@
 # Quilt for macOS
 
 ![macOS](https://img.shields.io/badge/platform-macOS-informational)
-![Version](https://img.shields.io/badge/version-1.0.0-blue)
+![Version](https://img.shields.io/badge/version-1.1-blue)
 ![License](https://img.shields.io/badge/license-Commercial-lightgrey)
 
 **Capture anything on your screen and export it as a clean, searchable PDF.**  
