@@ -3,25 +3,22 @@
     <channel>
         <title>Quilt</title>
         <item>
-            <title>1.1</title>
-            <pubDate>Sun, 20 Jul 2025 03:05:01 -0400</pubDate>
+            <title>1.2</title>
+            <pubDate>Wed, 23 Jul 2025 20:15:48 -0400</pubDate>
             <sparkle:version>120</sparkle:version>
-            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
                 <ul>
-                    <li>Added support for compressing PDF files during export (Pro only).</li>
-                    <li>Added ability to choose a window to focus on for custom area.</li>
-                    <li>Changed "Set..." to "Custom..." for the Press Key option.</li>
-                    <li>Made improvements to permissions handling.</li>
-                    <li>Other bug fixes and improvements.</li>
+                    <li>Added <strong>Scroll Capture</strong>: Capture long webpages and scrollable content in one screenshot. (Pro only)</li>
+                    <li>Fixed multiple bugs, including a crash that could occur in certain workflows.</li>
                 </ul>
             ]]></description>
             <enclosure
                 url="https://github.com/shubhamshah02/Quilt/releases/download/prod/Quilt.Installer.dmg"
-                length="2409276"
+                length="2598048"
                 type="application/octet-stream"
-                sparkle:edSignature="k5obyp4HVzqYq3V9L///D49xoOapFw9oOgLemwKT0Zcwi5foyM42bI5N2Ymsd52BPrcAGXARuoZQzn2eD5iDAg==" />
+                sparkle:edSignature="H7lzvdwZAjZYIny3j3GYRYmIQQhBg9uaR6FnFxtJrdgH5b7CqYiMPpBW2v/2K5pnJfkOg54BFRFweeDutG1HAw=="/>
         </item>
     </channel>
 </rss>
