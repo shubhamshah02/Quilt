@@ -3,22 +3,18 @@
     <channel>
         <title>Quilt</title>
         <item>
-            <title>1.2</title>
-            <pubDate>Wed, 23 Jul 2025 20:15:48 -0400</pubDate>
-            <sparkle:version>120</sparkle:version>
-            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+            <title>1.3</title>
+            <pubDate>Thu, 16 Oct 2025 16:58:25 -0400</pubDate>
+            <sparkle:version>100</sparkle:version>
+            <sparkle:shortVersionString>1.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
                 <ul>
-                    <li>Added <strong>Scroll Capture</strong>: Capture long webpages and scrollable content in one screenshot. (Pro only)</li>
-                    <li>Fixed multiple bugs, including a crash that could occur in certain workflows.</li>
+                    <li>Added support for macOS Tahoe including Liquid Glass and optimizations for the UI.</li>
+                    <li>Fixed an issue involving license activation.</li>
                 </ul>
             ]]></description>
-            <enclosure
-                url="https://github.com/shubhamshah02/Quilt/releases/download/prod/Quilt.Installer.dmg"
-                length="2598048"
-                type="application/octet-stream"
-                sparkle:edSignature="H7lzvdwZAjZYIny3j3GYRYmIQQhBg9uaR6FnFxtJrdgH5b7CqYiMPpBW2v/2K5pnJfkOg54BFRFweeDutG1HAw=="/>
+            <enclosure url="https://github.com/shubhamshah02/Quilt/releases/download/prod/Quilt.Installer.dmg" length="2487751" type="application/octet-stream" sparkle:edSignature="ukT2pB/sH2ciY6jJrM2EvBjv+TdmaTf2BSOaPxbeCXLe2h9ODuMRO/Q0Zopz3rch2+lD3U4QV0hYRL2FpYfrCw=="/>
         </item>
     </channel>
 </rss>
