@@ -4,7 +4,7 @@
         <title>Quilt</title>
         <item>
             <title>1.3</title>
-            <pubDate>Thu, 16 Oct 2025 16:58:25 -0400</pubDate>
+            <pubDate>Thu, 16 Oct 2025 17:19:37 -0400</pubDate>
             <sparkle:version>130</sparkle:version>
             <sparkle:shortVersionString>1.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
@@ -14,7 +14,7 @@
                     <li>Fixed an issue involving license activation.</li>
                 </ul>
             ]]></description>
-            <enclosure url="https://github.com/shubhamshah02/Quilt/releases/download/prod/Quilt.Installer.dmg" length="2487751" type="application/octet-stream" sparkle:edSignature="ukT2pB/sH2ciY6jJrM2EvBjv+TdmaTf2BSOaPxbeCXLe2h9ODuMRO/Q0Zopz3rch2+lD3U4QV0hYRL2FpYfrCw=="/>
+            <enclosure url="https://github.com/shubhamshah02/Quilt/releases/download/prod/Quilt.Installer.dmg" length="2488066" type="application/octet-stream" sparkle:edSignature="AN/p7TQ9zsb6QWUcKCGQIDbEeT1ARNFtHoIDU2cyLbkOz35vO5Dd36KLPKMcUItHZPuCYbWEvS/gUMmyf/DsDw=="/>
         </item>
     </channel>
 </rss>
