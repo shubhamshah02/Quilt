@@ -3,18 +3,44 @@
     <channel>
         <title>Quilt</title>
         <item>
-            <title>1.3</title>
-            <pubDate>Thu, 16 Oct 2025 17:19:37 -0400</pubDate>
-            <sparkle:version>130</sparkle:version>
-            <sparkle:shortVersionString>1.3</sparkle:shortVersionString>
+            <title>Quilt 1.4: The Power-User Update</title>
+            <pubDate>Wed, 05 Nov 2025 01:33:05 -0500</pubDate>
+            <sparkle:version>140</sparkle:version>
+            <sparkle:shortVersionString>1.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://quiltformac.com/changelog#v1-4</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/shubhamshah02/Quilt/releases/download/prod/Quilt.Installer.dmg" length="3037523" type="application/octet-stream" sparkle:edSignature="9g8/MG5VLY9nwYnF2bCxwqMbsQhxH4jh0ztXtJ82hos7QdufaNw7LaTUoSvmcVhJ3epEvHiwA81yFp/ZIK1zAA=="/>
             <description><![CDATA[
+                <h4>Quilt v1.4 — The Power-User Update ⚡️</h4>
+                <p>This is a massive update focused on giving you more control, better feedback, and powerful new ways to work with your captures. We've redesigned major parts of the app to be faster, smarter, and more customizable than ever, with a polished new look that feels right at home on macOS Tahoe.</p>
+
+                <h3>✨ New Features</h3>
                 <ul>
-                    <li>Added support for macOS Tahoe including Liquid Glass and optimizations for the UI.</li>
-                    <li>Fixed an issue involving license activation.</li>
+                    <li><strong>Capture in the Background (Pro):</strong> Start a capture session and switch to other apps while Quilt works for you. Perfect for long captures that don't require your attention.</li>
+                    <li><strong>Drag & Drop Reordering:</strong> Rearrange screenshots directly in the preview grid! Simply drag any thumbnail and drop it into a new position.</li>
+                    <li><strong>Custom Filename Templates (Pro):</strong> Take full control of your export filenames with a new "Export" tab in Settings, using placeholders like <code>{YYYY}-{MM}-{DD}</code> and <code>{AppName}</code>.</li>
+                    <li><strong>Expanded Image Export Formats (Pro):</strong> In addition to PNG, you can now export images and ZIP archives in JPEG, HEIC, and WebP formats.</li>
+                    <li><strong>Real-Time Capture Progress:</strong> A new live progress bar and an intelligently adapting Estimated Time Remaining (ETR) show you exactly how long a capture will take.</li>
+                    <li><strong>Completely Revamped Settings:</strong> The Settings window has been rebuilt from the ground up with a new multi-tab design, making it easier to find and configure every aspect of the app.</li>
+                </ul>
+
+                <h3>Polished New Look & Feel</h3>
+                <ul>
+                    <li><strong>Fluid Animations:</strong> The entire app has been infused with new animations that make it feel more alive and responsive.</li>
+                    <li><strong>macOS Tahoe Visuals:</strong> Quilt now embraces the future with beautiful new Liquid Glass design elements throughout the app.</li>
+                </ul>
+
+                <h3>🚀 Improvements & Fixes</h3>
+                <ul>
+                    <li><strong>Improved License Management:</strong> The license page has been updated, allowing you to easily manage your subscription or deactivate the current device.</li>
+                    <li><strong>Smarter Area Selection:</strong> When selecting a custom area, Quilt now automatically detects the window underneath.</li>
+                    <li><strong>Redesigned Source Picker:</strong> The window and display selector is now significantly faster, more reliable, and features a polished new design with app icons.</li>
+                    <li><strong>In-App Renaming:</strong> Edit the filename for your export directly in the preview window before saving.</li>
+                    <li><strong>Enhanced Capture UI:</strong> The countdown is now a sleek, animated progress circle, and the main screen provides clearer, more dynamic status messages.</li>
+                    <li><strong>Arrow Key Navigation:</strong> In addition to drag & drop, you can now use the arrow keys to navigate the preview grid.</li>
+                    <li><strong>Improved Responsiveness:</strong> Fixed an issue where the app could become unresponsive during high-frequency captures.</li>
                 </ul>
             ]]></description>
-            <enclosure url="https://github.com/shubhamshah02/Quilt/releases/download/prod/Quilt.Installer.dmg" length="2488066" type="application/octet-stream" sparkle:edSignature="AN/p7TQ9zsb6QWUcKCGQIDbEeT1ARNFtHoIDU2cyLbkOz35vO5Dd36KLPKMcUItHZPuCYbWEvS/gUMmyf/DsDw=="/>
         </item>
     </channel>
 </rss>
