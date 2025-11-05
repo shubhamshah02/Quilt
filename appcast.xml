@@ -8,7 +8,6 @@
             <sparkle:version>140</sparkle:version>
             <sparkle:shortVersionString>1.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://quiltformac.com/changelog#v1-4</sparkle:releaseNotesLink>
             <enclosure url="https://github.com/shubhamshah02/Quilt/releases/download/prod/Quilt.Installer.dmg" length="3037523" type="application/octet-stream" sparkle:edSignature="9g8/MG5VLY9nwYnF2bCxwqMbsQhxH4jh0ztXtJ82hos7QdufaNw7LaTUoSvmcVhJ3epEvHiwA81yFp/ZIK1zAA=="/>
             <description><![CDATA[
                 <h4>Quilt v1.4 — The Power-User Update ⚡️</h4>
