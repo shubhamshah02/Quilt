@@ -8,7 +8,7 @@
             <sparkle:version>160</sparkle:version>
             <sparkle:shortVersionString>1.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/shubhamshah02/Quilt/releases/download/prod/Quilt%20Installer.dmg" length="7807801" type="application/octet-stream" sparkle:edSignature="2jCxKl+brCYLyMlSu1xFNYkhENHYhVEEKSKed2kAmEQmvz39jCTJasTIPAotNLYfQLie5KTxD0+Bss2uoYCkCg=="/>
+            <enclosure url="https://github.com/shubhamshah02/Quilt/releases/download/prod/Quilt.Installer.dmg" length="7807801" type="application/octet-stream" sparkle:edSignature="2jCxKl+brCYLyMlSu1xFNYkhENHYhVEEKSKed2kAmEQmvz39jCTJasTIPAotNLYfQLie5KTxD0+Bss2uoYCkCg=="/>
             <description><![CDATA[
                 <h4>Quilt 1.6: The Annotation Update</h4>
                 <p>Version 1.6 is our biggest update yet, introducing a full annotation editor, smart redaction, 3D mockups, canvas effects, PDF export options, a menu bar shortcut, and more. Quilt is also being prepared for macOS Golden Gate, with plenty more to come.</p>
