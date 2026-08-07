@@ -3,6 +3,35 @@
     <channel>
         <title>Quilt</title>
         <item>
+            <title>Quilt 1.6: The Annotation Update</title>
+            <pubDate>Fri, 07 Aug 2026 17:09:47 -0400</pubDate>
+            <sparkle:version>160</sparkle:version>
+            <sparkle:shortVersionString>1.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/shubhamshah02/Quilt/releases/download/prod/Quilt%20Installer.dmg" length="7807801" type="application/octet-stream" sparkle:edSignature="2jCxKl+brCYLyMlSu1xFNYkhENHYhVEEKSKed2kAmEQmvz39jCTJasTIPAotNLYfQLie5KTxD0+Bss2uoYCkCg=="/>
+            <description><![CDATA[
+                <h4>Quilt 1.6: The Annotation Update</h4>
+                <p>Version 1.6 is our biggest update yet, introducing a full annotation editor, smart redaction, 3D mockups, canvas effects, PDF export options, a menu bar shortcut, and more. Quilt is also being prepared for macOS Golden Gate, with plenty more to come.</p>
+
+                <h3>✨ New Features</h3>
+                <ul>
+                    <li><strong>Annotation Editor:</strong> A dedicated editor for marking up screenshots. Draw rectangles, ovals, arrows, lines, highlights, and freehand strokes. Add text labels, numbered counters, and watermarks. Each tool has adjustable color, stroke width, corner radius, and opacity.</li>
+                    <li><strong>Blur and Redaction:</strong> The blur tool supports eight styles (pixelated, gaussian, hexagonal, crystallized, pointillism, halftone, tape, and washi) for hiding sensitive content. Smart Redaction automatically scans for emails, phone numbers, URLs, credit cards, and credentials and places blur annotations on them.</li>
+                    <li><strong>Background and Canvas Effects:</strong> Wrap any screenshot in a background before exporting. Choose a gradient, solid color, wallpaper image, or a blurred version of your wallpaper, then adjust padding, shadow intensity, and corner radius. Save combinations as named canvas presets.</li>
+                    <li><strong>Mockup Tool:</strong> Place a screenshot into a perspective-transformed 3D mockup. Pick from eight built-in orientations including Flat, Isometric, Hero Shot, and Dramatic, or dial in custom X, Y, and Z rotation angles.</li>
+                    <li><strong>Crop Tool:</strong> Crop freely or lock to standard aspect ratios (1:1, 4:3, 3:2, 16:9) in either orientation. Undo restores the full image.</li>
+                    <li><strong>PDF Export Options (Pro):</strong> When exporting to PDF, run OCR to make the document searchable and copyable, and optionally compress images with a four-step quality slider.</li>
+                    <li><strong>Menu Bar Icon:</strong> An optional Quilt icon in the macOS menu bar lets you start a capture or open the main window without switching apps. Toggle it in Settings &gt; General.</li>
+                    <li><strong>Siri Shortcuts and App Intents:</strong> A new "Capture with Last Settings" action is available in the Shortcuts app and via Siri. Say "Capture with Quilt" to trigger your last capture configuration hands-free.</li>
+                    <li><strong>Onboarding Flow:</strong> New users see a guided welcome screen that explains permissions and core features before the first capture.</li>
+                    <li><strong>Reading Settings Tab:</strong> A dedicated Settings tab for page-search intelligence, with independent controls for background OCR, chapter heading detection, and duplicate page detection.</li>
+                    <li><strong>Notifications Settings Tab:</strong> Notification preferences now have their own tab in Settings.</li>
+                    <li><strong>Annotation Persistence:</strong> Annotations are automatically saved as sidecars so they survive closing and reopening a capture session. Storage usage for both the search index and annotation sidecars is visible in Settings, with a Clear button for each.</li>
+                    <li><strong>macOS Golden Gate Prep:</strong> Quilt is being updated under the hood in preparation for macOS Golden Gate.</li>
+                </ul>
+            ]]></description>
+        </item>
+        <item>
             <title>Quilt 1.5: Speed, Stability, and Smarter Captures</title>
             <pubDate>Sat, 15 Nov 2025 16:52:36 -0500</pubDate>
             <sparkle:version>150</sparkle:version>
