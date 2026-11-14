@@ -1,67 +1,44 @@
-<?xml version="1.0" standalone="yes"?>
+<?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
-    <channel>
-        <title>Quilt</title>
-        <item>
-            <title>Quilt 1.6: The Annotation Update</title>
-            <pubDate>Fri, 07 Aug 2026 17:09:47 -0400</pubDate>
-            <sparkle:version>160</sparkle:version>
-            <sparkle:shortVersionString>1.6</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/shubhamshah02/Quilt/releases/download/prod/Quilt.Installer.dmg" length="7807801" type="application/octet-stream" sparkle:edSignature="2jCxKl+brCYLyMlSu1xFNYkhENHYhVEEKSKed2kAmEQmvz39jCTJasTIPAotNLYfQLie5KTxD0+Bss2uoYCkCg=="/>
-            <description><![CDATA[
-                <h4>Quilt 1.6: The Annotation Update</h4>
-                <p>Version 1.6 is our biggest update yet, introducing a full annotation editor, smart redaction, 3D mockups, canvas effects, PDF export options, a menu bar shortcut, and more. Quilt is also being prepared for macOS Golden Gate, with plenty more to come.</p>
+  <channel>
+    <title>Quilt</title>
+    <item>
+      <title>Quilt 1.7 — The Agent Update</title>
+      <pubDate>Sat, 14 Nov 2026 14:25:54 -0500</pubDate>
+      <sparkle:version>170</sparkle:version>
+      <sparkle:shortVersionString>1.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/shubhamshah02/Quilt/releases/download/v1.7/Quilt.Installer.dmg" length="11488504" type="application/octet-stream" sparkle:edSignature="SgCO1gjrBQYuBR7YSfPj7jmLTS9Zg+I6SEe+KnQvPUNBvMbo8IcIpUqGF+pFictUggB4h8/vzbs+MD7WzcISBA==" />
+      <description>The Agent Update adds a local MCP server for Pro, Stop at Last Page, recovered captures, and PDF chapter bookmarks. Release notes: https://quiltformac.com/changelog#v1-7</description>
+    </item>
+    <item>
+      <title>Quilt 1.6: The Annotation Update</title>
+      <pubDate>Fri, 07 Aug 2026 17:09:47 -0400</pubDate>
+      <sparkle:version>160</sparkle:version>
+      <sparkle:shortVersionString>1.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/shubhamshah02/Quilt/releases/download/prod/previous-prod.dmg" length="7807801" type="application/octet-stream" sparkle:edSignature="2jCxKl+brCYLyMlSu1xFNYkhENHYhVEEKSKed2kAmEQmvz39jCTJasTIPAotNLYfQLie5KTxD0+Bss2uoYCkCg==" />
+      <description>
+                &lt;h4&gt;Quilt 1.6: The Annotation Update&lt;/h4&gt;
+                &lt;p&gt;Version 1.6 is our biggest update yet, introducing a full annotation editor, smart redaction, 3D mockups, canvas effects, PDF export options, a menu bar shortcut, and more. Quilt is also being prepared for macOS Golden Gate, with plenty more to come.&lt;/p&gt;
 
-                <h3>✨ New Features</h3>
-                <ul>
-                    <li><strong>Annotation Editor:</strong> A dedicated editor for marking up screenshots. Draw rectangles, ovals, arrows, lines, highlights, and freehand strokes. Add text labels, numbered counters, and watermarks. Each tool has adjustable color, stroke width, corner radius, and opacity.</li>
-                    <li><strong>Blur and Redaction:</strong> The blur tool supports eight styles (pixelated, gaussian, hexagonal, crystallized, pointillism, halftone, tape, and washi) for hiding sensitive content. Smart Redaction automatically scans for emails, phone numbers, URLs, credit cards, and credentials and places blur annotations on them.</li>
-                    <li><strong>Background and Canvas Effects:</strong> Wrap any screenshot in a background before exporting. Choose a gradient, solid color, wallpaper image, or a blurred version of your wallpaper, then adjust padding, shadow intensity, and corner radius. Save combinations as named canvas presets.</li>
-                    <li><strong>Mockup Tool:</strong> Place a screenshot into a perspective-transformed 3D mockup. Pick from eight built-in orientations including Flat, Isometric, Hero Shot, and Dramatic, or dial in custom X, Y, and Z rotation angles.</li>
-                    <li><strong>Crop Tool:</strong> Crop freely or lock to standard aspect ratios (1:1, 4:3, 3:2, 16:9) in either orientation. Undo restores the full image.</li>
-                    <li><strong>PDF Export Options (Pro):</strong> When exporting to PDF, run OCR to make the document searchable and copyable, and optionally compress images with a four-step quality slider.</li>
-                    <li><strong>Menu Bar Icon:</strong> An optional Quilt icon in the macOS menu bar lets you start a capture or open the main window without switching apps. Toggle it in Settings &gt; General.</li>
-                    <li><strong>Siri Shortcuts and App Intents:</strong> A new "Capture with Last Settings" action is available in the Shortcuts app and via Siri. Say "Capture with Quilt" to trigger your last capture configuration hands-free.</li>
-                    <li><strong>Onboarding Flow:</strong> New users see a guided welcome screen that explains permissions and core features before the first capture.</li>
-                    <li><strong>Reading Settings Tab:</strong> A dedicated Settings tab for page-search intelligence, with independent controls for background OCR, chapter heading detection, and duplicate page detection.</li>
-                    <li><strong>Notifications Settings Tab:</strong> Notification preferences now have their own tab in Settings.</li>
-                    <li><strong>Annotation Persistence:</strong> Annotations are automatically saved as sidecars so they survive closing and reopening a capture session. Storage usage for both the search index and annotation sidecars is visible in Settings, with a Clear button for each.</li>
-                    <li><strong>macOS Golden Gate Prep:</strong> Quilt is being updated under the hood in preparation for macOS Golden Gate.</li>
-                </ul>
-            ]]></description>
-        </item>
-        <item>
-            <title>Quilt 1.5: Speed, Stability, and Smarter Captures</title>
-            <pubDate>Sat, 15 Nov 2025 16:52:36 -0500</pubDate>
-            <sparkle:version>150</sparkle:version>
-            <sparkle:shortVersionString>1.5</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/shubhamshah02/Quilt/releases/download/prod/Quilt.Installer.dmg" length="3089442" type="application/octet-stream" sparkle:edSignature="JJ8e+r/DEyejb+FTA2OM/J0bP+cKxlPUQ/7TigPrw3oskVmSwEhi4p4/zi4R48R1ugkiSXqw3gursawXpEnmAA=="/>
-            <description><![CDATA[
-                <h4>Quilt 1.5: Speed, Stability, and Smarter Captures</h4>
-                <p>Version 1.5 is a massive under-the-hood upgrade focused on performance and reliability. We've rewritten core parts of the app to be faster, more precise, and significantly more efficient with your Mac's resources, all while introducing powerful new capture logic.</p>
-
-                <h3>✨ New Features</h3>
-                <ul>
-                    <li><strong>All-New Scrolling Capture Engine 📜:</strong> Scrolling capture has been re-engineered from the ground up for speed and precision.
-                        <ul>
-                            <li><strong>Live Stitching:</strong> Your scrolling captures are now built in real-time using Apple's Vision framework for incredible accuracy. No more waiting for post-processing!</li>
-                            <li><strong>Smart Stop:</strong> The capture automatically ends when it detects the content is no longer scrolling, saving you time.</li>
-                        </ul>
-                    </li>
-                    <li><strong>Robust Display Handling 💻:</strong> Quilt now intelligently handles changes to your monitor setup. If a display is disconnected mid-capture, the session will pause and let you choose a new target, preventing failed captures.</li>
-                </ul>
-
-                <h3>🚀 Improvements & Fixes</h3>
-                <ul>
-                    <li><strong>Massive Performance Boost 🚀:</strong> Enjoy significantly reduced CPU usage and better memory management, especially during captures and in the preview window. The app is now faster and lighter than ever.</li>
-                    <li><strong>Optimized Previews & Exports:</strong> The preview grid loads thumbnails much faster, and exporting large batches of images or PDFs is now multi-threaded and dramatically quicker.</li>
-                    <li><strong>Proper Display Names:</strong> The source picker now shows the actual names of your monitors (e.g., "Studio Display") instead of just their resolutions.</li>
-                    <li><strong>Smarter File Naming:</strong> Exports will now automatically get a numbered suffix (e.g., <code>capture-1.png</code>) to prevent accidentally overwriting existing files.</li>
-                    <li><strong>Fixed:</strong> The "Press Esc to Stop" overlay will no longer appear in your final screenshots.</li>
-                </ul>
-            ]]></description>
-        </item>
-    </channel>
+                &lt;h3&gt;✨ New Features&lt;/h3&gt;
+                &lt;ul&gt;
+                    &lt;li&gt;&lt;strong&gt;Annotation Editor:&lt;/strong&gt; A dedicated editor for marking up screenshots. Draw rectangles, ovals, arrows, lines, highlights, and freehand strokes. Add text labels, numbered counters, and watermarks. Each tool has adjustable color, stroke width, corner radius, and opacity.&lt;/li&gt;
+                    &lt;li&gt;&lt;strong&gt;Blur and Redaction:&lt;/strong&gt; The blur tool supports eight styles (pixelated, gaussian, hexagonal, crystallized, pointillism, halftone, tape, and washi) for hiding sensitive content. Smart Redaction automatically scans for emails, phone numbers, URLs, credit cards, and credentials and places blur annotations on them.&lt;/li&gt;
+                    &lt;li&gt;&lt;strong&gt;Background and Canvas Effects:&lt;/strong&gt; Wrap any screenshot in a background before exporting. Choose a gradient, solid color, wallpaper image, or a blurred version of your wallpaper, then adjust padding, shadow intensity, and corner radius. Save combinations as named canvas presets.&lt;/li&gt;
+                    &lt;li&gt;&lt;strong&gt;Mockup Tool:&lt;/strong&gt; Place a screenshot into a perspective-transformed 3D mockup. Pick from eight built-in orientations including Flat, Isometric, Hero Shot, and Dramatic, or dial in custom X, Y, and Z rotation angles.&lt;/li&gt;
+                    &lt;li&gt;&lt;strong&gt;Crop Tool:&lt;/strong&gt; Crop freely or lock to standard aspect ratios (1:1, 4:3, 3:2, 16:9) in either orientation. Undo restores the full image.&lt;/li&gt;
+                    &lt;li&gt;&lt;strong&gt;PDF Export Options (Pro):&lt;/strong&gt; When exporting to PDF, run OCR to make the document searchable and copyable, and optionally compress images with a four-step quality slider.&lt;/li&gt;
+                    &lt;li&gt;&lt;strong&gt;Menu Bar Icon:&lt;/strong&gt; An optional Quilt icon in the macOS menu bar lets you start a capture or open the main window without switching apps. Toggle it in Settings &amp;gt; General.&lt;/li&gt;
+                    &lt;li&gt;&lt;strong&gt;Siri Shortcuts and App Intents:&lt;/strong&gt; A new "Capture with Last Settings" action is available in the Shortcuts app and via Siri. Say "Capture with Quilt" to trigger your last capture configuration hands-free.&lt;/li&gt;
+                    &lt;li&gt;&lt;strong&gt;Onboarding Flow:&lt;/strong&gt; New users see a guided welcome screen that explains permissions and core features before the first capture.&lt;/li&gt;
+                    &lt;li&gt;&lt;strong&gt;Reading Settings Tab:&lt;/strong&gt; A dedicated Settings tab for page-search intelligence, with independent controls for background OCR, chapter heading detection, and duplicate page detection.&lt;/li&gt;
+                    &lt;li&gt;&lt;strong&gt;Notifications Settings Tab:&lt;/strong&gt; Notification preferences now have their own tab in Settings.&lt;/li&gt;
+                    &lt;li&gt;&lt;strong&gt;Annotation Persistence:&lt;/strong&gt; Annotations are automatically saved as sidecars so they survive closing and reopening a capture session. Storage usage for both the search index and annotation sidecars is visible in Settings, with a Clear button for each.&lt;/li&gt;
+                    &lt;li&gt;&lt;strong&gt;macOS Golden Gate Prep:&lt;/strong&gt; Quilt is being updated under the hood in preparation for macOS Golden Gate.&lt;/li&gt;
+                &lt;/ul&gt;
+            </description>
+    </item>
+  </channel>
 </rss>
